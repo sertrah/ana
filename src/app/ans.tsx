@@ -4,21 +4,21 @@ import React, { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 
 const anasImg = [
-  "IMG_8041.png",
-  "IMG_8042.png",
-  "IMG_8043.png",
-  "IMG_8044.png",
-  "IMG_8045.png",
+  "IMG_8041.jpg",
+  "IMG_8042.jpg",
+  "IMG_8043.jpg",
+  "IMG_8044.jpg",
+  "IMG_8045.jpg",
   "IMG_8046.jpg",
 
-  "IMG_8042.png",
-  "IMG_8043.png",
-  "IMG_8044.png",
-  "IMG_8045.png",
+  "IMG_8042.jpg",
+  "IMG_8043.jpg",
+  "IMG_8044.jpg",
+  "IMG_8045.jpg",
   "IMG_8046.jpg",
-  "IMG_8043.png",
-  "IMG_8044.png",
-  "IMG_8045.png",
+  "IMG_8043.jpg",
+  "IMG_8044.jpg",
+  "IMG_8045.jpg",
   "IMG_8046.jpg",
 ];
 
